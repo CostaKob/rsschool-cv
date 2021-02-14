@@ -43,9 +43,11 @@
 * Git
 * Photoshop
 
-
 ## LANGUAGES 
 * Hebrew 	Mother tongue level
 * English		Fluent
 * Russian		Mother tongue level
+
+## Github account
+* [CostaKob](https://github.com/CostaKob)
 
