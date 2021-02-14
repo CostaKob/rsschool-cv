@@ -6,9 +6,9 @@
 ### Email: CostaKob@gmail.com
  
 ## EDUCATION
-**2020 It-kamasutra** - React course online
+**2020 It-kamasutra** - [React course online](https://github.com/CostaKob/socialReactProject)
 
-**2020 Harvard university** - CS50 Introduction to computer science
+**2020 Harvard university** - [CS50 Introduction to computer science](https://github.com/CostaKob/introduction-to-computer-science)
 
 **2011-2015	Jerusalem academy of music and dance** - B.Mus in classical piano performance
 
@@ -16,7 +16,7 @@
  
 ## EXPERIENCE
 
-**2020 Kitzur derech**
+**2020 Kitzur derech https://kitzur.app**
 * Trainee front end developer
 
 **2016 Freelance**
