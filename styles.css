@@ -1,1 +1,39 @@
+.headers-wrapper {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 40px;
+}
 
+.wrapper {
+    margin: 0 auto;
+    max-width: 65%;
+    border: 1px solid cornflowerblue;
+    border-radius: 75px;
+    padding: 25px;
+}
+
+.photo-wrapper {
+    padding: 20px;
+}
+
+.photo {
+    width: 200px;
+    height: 200px;
+    border-radius: 100px;
+}
+
+.section ul{
+    list-style-type: none;
+}
+
+.sub-section {
+    line-height: 1.8;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 300;
+}
+
+.link {
+    font-weight: bold;
+    color:cornflowerblue;
+    text-decoration: none;
+}
